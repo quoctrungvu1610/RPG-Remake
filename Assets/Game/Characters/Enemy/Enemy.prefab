@@ -183,12 +183,42 @@ PrefabInstance:
     - target: {fileID: 435822482737408382, guid: 2d78ec1912e359c4581186d4f04827ea,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148776399697483391, guid: 2d78ec1912e359c4581186d4f04827ea,
+        type: 3}
+      propertyPath: takeDamge.m_PersistentCalls.m_Calls.Array.size
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3148776399697483391, guid: 2d78ec1912e359c4581186d4f04827ea,
         type: 3}
       propertyPath: healthPoints
       value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148776399697483391, guid: 2d78ec1912e359c4581186d4f04827ea,
+        type: 3}
+      propertyPath: takeDamge.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148776399697483391, guid: 2d78ec1912e359c4581186d4f04827ea,
+        type: 3}
+      propertyPath: takeDamge.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148776399697483391, guid: 2d78ec1912e359c4581186d4f04827ea,
+        type: 3}
+      propertyPath: takeDamge.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 7658544977947128606}
+    - target: {fileID: 3148776399697483391, guid: 2d78ec1912e359c4581186d4f04827ea,
+        type: 3}
+      propertyPath: takeDamge.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: Aggrevate
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148776399697483391, guid: 2d78ec1912e359c4581186d4f04827ea,
+        type: 3}
+      propertyPath: takeDamge.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 5095103217052592617, guid: 2d78ec1912e359c4581186d4f04827ea,
         type: 3}
